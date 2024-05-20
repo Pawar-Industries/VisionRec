@@ -1,0 +1,6 @@
+package-lock.json
+node_modules/
+client/package-lock.json
+client/node_modules/
+.DS_Store
+src/config/gcloudvision/service-account-key.json
